@@ -3,10 +3,13 @@ A python script for parsing the JSON output of the NLM MetaMap
 
 ## What is MetaMap?
 
+It takes free text and identifies UMLS concepts in that text. These concepts are identified using CUIs - concept unique identifiers. For more, see below:
+
 [MetaMap - A Tool For Recognizing UMLS Concepts in Text](https://metamap.nlm.nih.gov/)
+
 [UMLS: Unified Medical Language System](https://www.nlm.nih.gov/research/umls/)
 
-Basically, it takes free text and identifies UMLS concepts in that text. These concepts are identified using CUIs - concept unique identifiers.
+
 
 ## What does the script do?
 
